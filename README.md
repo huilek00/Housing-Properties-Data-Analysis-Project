@@ -6,4 +6,4 @@
 ##### Sample data is obtained from Kaggle, link of sample dataset: https://www.kaggle.com/code/dragonduck/property-listing-analysis/data 
 
 ##### Image of the housing properties data analysis dashboard:
-![image](https://user-images.githubusercontent.com/85103656/210758212-7bd05ea4-789b-4e1e-aa60-8db857ab9a17.png)
+![image](https://user-images.githubusercontent.com/85103656/210802825-1523dcc9-ecad-41bd-9dab-6cdd294f9975.png)
